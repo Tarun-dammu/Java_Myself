@@ -5,5 +5,7 @@ public class MultiThreadingEx{
         System.out.println("DSP");
         System.out.println("aps");
         System.out.println("Dane");
+        System.out.println("dsaagfsdg");
+        // System.out.println("ASg");
     }
 }
